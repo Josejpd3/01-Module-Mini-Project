@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.text-center {
+    text-align: center;
+}
+
+header {
+    position: relative;
+    height: 50px;
+    top: 0px;
+    width: 100%;
+    text-align: right;
+    line-height: 50px;
+    background-color: darkgreen;
+    border-bottom: 7px solid orange;
+}
+
+img {
+    display: block;
+    margin: 28px auto;
+}
+
+nav ul li{
+    display: inline;
+    right: 0px;
+    margin: 10px;
+}
+
+#contact {
+    background-color: tan;
+    padding: 70px;
+    margin-top: 40px;
+    border-top: 5px solid rgb(126, 91, 28);
+}
+
+form {
+    border: 5px solid rgb(126, 91, 28);
+    padding: 40px;
+    border-radius: 15px;
+
+}
